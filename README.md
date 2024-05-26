@@ -17,7 +17,7 @@ This project is a Backend-Frontend application that combines server-side and cli
 1. Clone the repository:
 2. Install dependencies:
 3. Start the development server:
-4. Access the application in your browser at http://localhost:8080.
+4. Access the application in your browser at http://localhost:3000.
 
 ## Contributors
 
