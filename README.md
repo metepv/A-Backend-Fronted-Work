@@ -6,11 +6,11 @@ This project is a Backend-Frontend application that combines server-side and cli
 
 - `API.js`: Responsible for the server-side functionality of the application.
 - `src/main.js`: Entry point for the application.
-- `src/App.vue`: Main component of the application.
+- `src/App_vue.vue`: Main component of the application.
 - `src/index.js`: Router for routing requests.
-- `src/components/Login.vue`: Component for handling login functionality.
-- `src/components/Admin.vue`: Component for displaying admin-related information.
-- `src/components/User.vue`: Component for displaying user-related information.
+- `src/login_vue.vue`: Component for handling login functionality.
+- `src/admin_vue.vue`: Component for displaying admin-related information.
+- `src/user_vue.vue`: Component for displaying user-related information.
 
 ## Usage
 
